@@ -85,5 +85,5 @@ int main() {
 			} else if (Dinosaur1.getIsExtinct() == "False") {
 				cout<< "Animal isn't extinct"<<endl;
 			}
-	
+	return 0;
 }
